@@ -1,4 +1,3 @@
-
 param([string]$projectName = "project")
 $baseDirectory = "C:\Users\aulandsdalen\Documents\ucheba\code"
 $gitDirectory = "C:\Users\aulandsdalen\Documents\ucheba\code\github"
